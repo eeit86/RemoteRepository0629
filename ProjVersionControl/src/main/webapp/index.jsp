@@ -8,13 +8,8 @@
 <title>Home</title>
 </head>
 <body>
-
 <h3>Home</h3>
 <h3>修改一次</h3>
-<<<<<<< HEAD
-
-=======
->>>>>>> branch 'master' of https://github.com/eeit86/RemoteRepository0629.git
 <h3><a href="<c:url value="/servlet1" />">Servlet1</a></h3>
 </body>
 </html>
