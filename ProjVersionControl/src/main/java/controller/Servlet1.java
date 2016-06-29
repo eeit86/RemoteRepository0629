@@ -17,7 +17,7 @@ public class Servlet1 extends HttpServlet {
 		
 
 
-		System.out.println("Hello Nigger！！");
+		System.out.println("Hello Nigger @@@！！");
 
 		
 
