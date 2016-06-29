@@ -17,12 +17,16 @@ public class Servlet1 extends HttpServlet {
 		
 
 
+
 		System.out.println("Servlet1");
 
 
 
 
 		System.out.println("Hello Nigger @@@！！");
+
+		System.out.println("Hello Nigger 456！！");
+
 
 
 		
