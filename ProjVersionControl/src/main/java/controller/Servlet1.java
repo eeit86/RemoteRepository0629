@@ -21,7 +21,6 @@ public class Servlet1 extends HttpServlet {
 		System.out.println("Hello Nigger 456！！");
 
 		System.out.println("Servlet2");
-
 		System.out.println("Hello Nigger @@@！！");
 		
 
