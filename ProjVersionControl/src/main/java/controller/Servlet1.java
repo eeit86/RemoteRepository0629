@@ -14,12 +14,14 @@ public class Servlet1 extends HttpServlet {
 	private SimpleDateFormat sDateFormat = new SimpleDateFormat("yyyy/MM/dd hh:mm:ss");
 	@Override
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+
 		
 
 
 
 		System.out.println("Servlet2");
 		System.out.println("Hello Nigger @@@！！");
+
 
 		HttpSession session = request.getSession();
 		session.setAttribute("time", ""+sDateFormat.format(new Date()));

@@ -9,11 +9,17 @@
 </head>
 <body>
 
+
 <h3>Home</h3>
 <h3>修改一次</h3>
-<<<<<<< HEAD
 
-=======
+
+
+<h3>Home</h3>
+<h3>修改一次</h3>
+<h3>awefawef</h3>
+<h3>修改2次</h3>
+<h3>修改3次</h3>
 >>>>>>> branch 'master' of https://github.com/eeit86/RemoteRepository0629.git
 <h3><a href="<c:url value="/servlet1" />">Servlet1</a></h3>
 </body>

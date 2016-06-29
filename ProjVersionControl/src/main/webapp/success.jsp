@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<<<<<<< HEAD
+
 
 <title>Success</title>
 </head>
@@ -13,6 +13,7 @@
 
 <h3>Success ${time}</h3>
 <h3><a href="<c:url value="/index.jsp" />">Home</a></h3>
+
 
 </body>
 </html>
