@@ -18,6 +18,9 @@ public class Servlet1 extends HttpServlet {
 
 
 		System.out.println("Hello Nigger 456！！");
+		System.out.println("Hello Nigger 56！！");
+		System.out.println("Hello Nigger 6！！");
+		System.out.println("Hello Nigger 4！！");
 
 		
 
