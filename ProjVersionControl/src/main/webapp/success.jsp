@@ -5,6 +5,8 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<<<<<<< HEAD
+
 <title>Success</title>
 </head>
 <body>
@@ -14,3 +16,4 @@
 
 </body>
 </html>
+
